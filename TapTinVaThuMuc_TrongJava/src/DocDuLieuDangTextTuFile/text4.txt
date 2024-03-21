@@ -1,0 +1,4 @@
+Xin chào 
+Du lieu: 3.14  la so pi
+Student{id=100, name=' Hoang'}
+
